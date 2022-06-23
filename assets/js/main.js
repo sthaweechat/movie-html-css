@@ -25,3 +25,4 @@ arrows.forEach((arrow, i) => {
 
   // console.log(movieLists[i].querySelectorAll("img").length);
 });
+
